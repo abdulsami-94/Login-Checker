@@ -6,6 +6,11 @@ Perfect beginner project for practising form handling, conditional logic, and DO
 
 ---
 
+⚠️ This project is now maintained in my Project Hub repository:
+https://github.com/abdulsami-94/Project-Hub
+
+---
+
 ## 🚀 **Features**
 
 * Input fields for username and password
